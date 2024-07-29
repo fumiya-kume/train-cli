@@ -1,2 +1,12 @@
 # train-cli
-The cli tool show the running train
+The cli tool shows the running modern train in ASCII art
+
+## Example Output
+
+```
+        ____
+  __,-~~/~    `---.
+_/_,---(      ,    )
+ __/        <    /   )
+  ~~-~~/`---'~`--~
+```
